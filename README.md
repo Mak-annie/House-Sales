@@ -65,8 +65,17 @@ In this project, data visualizations were used to explore this data and aid in c
 
 
 ## MODELING
-The 
+The Summary:
 
+We used Ordinary Least Squares (OLS) regression as the modeling technique to analyze the relationship between the predictor variables and the target variable (house prices). OLS is a widely used and fundamental method for linear regression analysis.
+
+1. Linearity: OLS assumes a linear relationship between the predictor variables and the target variable.We aimed to understand how changes in the predictor variables, such as the number of bedrooms, bathrooms, square footage, and other features, affect the house prices. OLS is suitable for modeling linear relationships and estimating the coefficients that quantify the impact of these predictors.
+
+2. Ease of Interpretation: OLS provides estimates for the coefficients of the predictor variables, which represent the average change in the target variable associated with a one-unit change in the predictor while holding other predictors constant. This allows for straightforward interpretation and understanding of the relationship between the predictors and the target variable.
+
+3. Statistical Inference: OLS provides standard errors for the coefficient estimates, which allow us to assess the statistical significance of the predictors. By examining the p-values associated with each coefficient, we can determine whether the predictors have a significant impact on house prices.
+
+4. Efficiency: OLS estimates the coefficients that minimize the sum of squared residuals, making it an efficient method for estimating the model parameters. It provides the "best linear unbiased estimates" when the assumptions of OLS are met.
 
 ## DATA VISUALIZATIONS
 A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coeeficients. 
