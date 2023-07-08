@@ -27,10 +27,12 @@ To give homeowners specific and reliable information on how and by how much home
 
 
 ## SPECIFIC OBJECTIVES
-- To assess the influence of various home renovation projects on the projected value of properties.i.e.:renovation impact. This entails examining historical data, market trends, and sector insights to pinpoint the improvements with the most potential to raise the value of real estate. Homeowners can concentrate on the most efficient projects by analyzing the effects of various renovation types, such as kitchen remodels, bathroom upgrades, or energy-efficient enhancements.
--The second goal is to provide homeowners with tailored advice based on their unique property details, location, and remodeling aspirations. The goal is to offer individualized advise that emphasizes the remodeling projects most likely to result in a rise in estimated property worth by taking into account elements including the property's size, condition, and market demand. Homeowners can properly prioritize their remodeling projects and allocate resources thanks to customized recommendations.
--To identify how much the projected value of homes may rise under various remodeling scenarios. The goal is to give homeowners accurate estimates of the anticipated value gain for certain renovation projects by utilizing data analysis, statistical modeling, and historical data.
+- To identify how to develop strategies that enhance the model's predictive power, considering additional predictor variables that may impact house prices, such as location-related factors or specific property features.
 
+-To assess properties with high market value.This can involve conducting thorough inspections and evaluations, considering factors like maintenance history, upgrades, and overall quality.
+As well as leveraging geospatial data or collaborating with real estate agents specializing in waterfront properties.
+
+-To evaluate the market trends and buyer preferences.Regularly monitor market trends, including changes in buyer preferences and demands, to adapt pricing strategies accordingly.
 
 
 ## NOTEBOOK STRUCTURE
@@ -67,7 +69,7 @@ The
 
 
 ## DATA VISUALIZATIONS
-A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coeeficients 
+A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coeeficients. 
 
 
 ## CONCLUSIONS
