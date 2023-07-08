@@ -34,36 +34,54 @@ To give homeowners specific and reliable information on how and by how much home
 
 
 ## NOTEBOOK STRUCTURE
+-Loading the Data
 
+-Exploratory Data Analysis
+
+-Modeling and Results
+
+-Conclusions
+
+-Recommendations
 
 
 
 ## DATA UNDERSTANDING
+This project will utilize datasets that consist details regarding a house such as:view, condition, number of bedrooms and bathrooms,whether a house a lot and a basement.
 
-
+To gain a comprehensive understanding of the dataset, explorative data analysis techniques will be employed.These techniques involve addressing missing values,veryfing data types,converting datatypes to those suitable ones for creating a model.
 
 ## METHODOLOGY
+In this project, data analysis and visualization techniques in Python, utilizing libraries such as pandas and matplotlib,will be employed.
 
+The available dataset will be examined through analysis and visualizations.This process will help identify key relationships and trends, enabling the extraction of insights related to house-sales prediction
 
-
-## DATA WRANGLING
 
 
 ## EXPLORATORY DATA ANALYSIS
-
+In this project, data visualizations were used to explore this data and aid in coming up with models that played a role in coming up with recommendations.
 
 
 ## MODELING
-
+The 
 
 
 ## DATA VISUALIZATIONS
-
+A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coeeficients 
 
 
 ## CONCLUSIONS
+1.The model has a statistically significant relationship with the target variable (price), as indicated by the overall model's F-statistic and individual predictor variable p-values.
 
+2.The model explains approximately 66.5% of the variance in the target variable (R-squared value), suggesting that the selected predictor variables collectively have a moderate level of predictive power for determining house prices.
+
+3.The coefficients of the predictor variables provide insights into their individual impacts on house prices. Some variables, such as the number of bedrooms, bathrooms, and square footage of living space, show expected relationships with the price, while others, such as the presence of a waterfront view or the property's condition and grade, have unique impacts on the price.
 
 
 
 ## RECOMMENDATIONS
+1.Consider the number of bedrooms, bathrooms, and square footage of living space as key factors when determining house prices. Properties with more bedrooms and bathrooms, as well as larger living spaces, tend to command higher prices.
+
+2.Pay attention to the presence of a waterfront view, as it significantly affects house prices. Properties with waterfront views tend to have higher values, indicating their desirability and potential for premium pricing.
+
+3.Evaluate the condition and grade of the property. Both factors can influence the price, with better-conditioned properties and higher-grade ratings generally correlating with higher prices. Ensuring that properties are well-maintained and upgraded to higher-grade levels may lead to increased market value.
