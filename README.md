@@ -1,7 +1,7 @@
 # HOUSE SALES PREDICTION
 ## AUTHOR: ANITA MAKORI
 
-<img src="https://plus.unsplash.com/premium_photo-1682310519205-e0be3807dba2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdXNlJTIwZm9yJTIwc2FsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60" alt="HOUSE!!" width="950" height="400">
+<img src="https://media.istockphoto.com/id/1401568850/photo/tilit-shift-model-home-for-sale-with-real-estate-sign.webp?b=1&s=170667a&w=0&k=20&c=X6fNAMhuReC6WaH35V78goj_aa5-s0pARrICtYoIWgs=" alt="HOUSE!!" width="950" height="400">
 
 
 #### INTRODUCTION
