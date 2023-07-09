@@ -70,7 +70,7 @@ We used Ordinary Least Squares (OLS) regression as the modeling technique to ana
 4. Efficiency: OLS estimates the coefficients that minimize the sum of squared residuals, making it an efficient method for estimating the model parameters. It provides the "best linear unbiased estimates" when the assumptions of OLS are met.
 
 ## DATA VISUALIZATIONS
-A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coeeficients. 
+A visualization of the model's results will be plotted so as to ensure a better understanding of the predictive analysis.A scatter plot of the target variable, a histogram of the residuals and a barplot of the coefficients. 
 
 
 ## CONCLUSIONS
