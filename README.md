@@ -4,7 +4,7 @@
 <img src="https://media.istockphoto.com/id/1401568850/photo/tilit-shift-model-home-for-sale-with-real-estate-sign.webp?b=1&s=170667a&w=0&k=20&c=X6fNAMhuReC6WaH35V78goj_aa5-s0pARrICtYoIWgs=" alt="HOUSE!!" width="950" height="400">
 
 
-#### INTRODUCTION
+## INTRODUCTION
 The business problem at hand is the need to provide homeowners with accurate and reliable advice regarding home renovations and their potential impact on the estimated value of their homes. The stakeholder aims to assist homeowners in making informed decisions about renovating their properties, enabling them to maximize their investment returns while improving their living spaces.
 
 To address this problem effectively, the stakeholder must gather relevant data and insights, analyze the factors that influence home value, and develop a comprehensive advisory framework. This framework should consider various renovation projects, their costs, and their potential impact on the estimated value of homes.
