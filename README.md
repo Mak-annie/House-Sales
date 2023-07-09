@@ -1,9 +1,7 @@
 # HOUSE SALES PREDICTION
 ## AUTHOR: ANITA MAKORI
 
-<img src="https://www.shutterstock.com/image-photo/classic-house-model-on-sale-backgrouund-1157345959" alt="HOUSE!!" width="950" height="400">
-![HOUSE!]("https://www.shutterstock.com/image-photo/classic-house-model-on-sale-backgrouund-1157345959")
-
+<img src="https://plus.unsplash.com/premium_photo-1682310519205-e0be3807dba2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdXNlJTIwZm9yJTIwc2FsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60" alt="HOUSE!!" width="950" height="400">
 
 
 #### INTRODUCTION
