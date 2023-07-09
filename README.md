@@ -8,15 +8,6 @@ The business problem at hand is the need to provide homeowners with accurate and
 
 To address this problem effectively, the stakeholder must gather relevant data and insights, analyze the factors that influence home value, and develop a comprehensive advisory framework. This framework should consider various renovation projects, their costs, and their potential impact on the estimated value of homes.
 
-The stakeholder needs to establish a thorough understanding of the real estate market, regional trends, and buyer preferences to provide accurate advice. Factors such as location, property size, number of bedrooms and bathrooms, overall condition, and specific features play crucial roles in determining the value of a home. By assessing these factors and their relationship with renovation projects, the stakeholder can guide homeowners toward the most effective improvements.
-
-To achieve this, the stakeholder may need to collaborate with real estate agents, property appraisers, and industry experts who can provide valuable insights into market dynamics and trends. Additionally, data analysis and machine learning techniques can be employed to identify correlations between renovation projects and home value, enabling the stakeholder to offer data-driven recommendations.
-
-The stakeholder should also consider the financial aspect, helping homeowners understand the costs associated with different renovations and estimating the potential increase in the value of their homes. By providing homeowners with a clear understanding of the return on investment (ROI) for various renovation projects, the stakeholder can assist in making informed decisions that align with homeowners' budgetary constraints and goals.
-
-Overall, the stakeholder's objective is to provide homeowners with personalized and actionable advice regarding home renovations, enabling them to make informed choices that lead to increased home value. By delivering accurate insights and guidance, the stakeholder can establish a trusted reputation and position themselves as a valuable resource within the real estate industry.
-
-
 
 
 ## PROBLEM STATEMENT
@@ -41,6 +32,8 @@ As well as leveraging geospatial data or collaborating with real estate agents s
 -Exploratory Data Analysis
 
 -Modeling and Results
+
+-Data Visualizations
 
 -Conclusions
 
